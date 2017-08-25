@@ -1,0 +1,80 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "letougo",
+    "description": "",
+    "home_page_url": "http://www.rolandtest.com",
+    "feed_url": "http://www.rolandtest.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "Barry"
+    },
+    "items": [
+        {
+            "id": "http://www.rolandtest.com/erreur.html",
+            "url": "http://www.rolandtest.com/erreur.html",
+            "title": "404",
+            "content_html": "La ressource que vous recherchez n'est pas disponible sur ce site",
+            "author": {
+                "name": "Barry"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-24T23:45:35-04:00",
+            "date_modified": "2017-08-23T22:56:30-04:00"
+        },
+        {
+            "id": "http://www.rolandtest.com/caracteristiques-du-milieu.html",
+            "url": "http://www.rolandtest.com/caracteristiques-du-milieu.html",
+            "title": "Caractéristiques du milieu",
+            "content_html": "<h3>Caract&eacute;ristiques du milieu physique</h3>\n<p>La commune a un climat continental nord-sah&eacute;lien avec une forte variation des temp&eacute;ratures, de la pluviom&eacute;trie et de l&rsquo;intensit&eacute; des vents. La pluviom&eacute;trie moyenne n&rsquo;exc&egrave;de pas 750mm par an et peut atteindre 800 mm d&rsquo;eau en ann&eacute;e pluvieuse. Le r&eacute;seau hydrographique&nbsp; est constitu&eacute; par le bras du Nakamb&eacute; qui longe la commune et sur lequel est construit le barrage de To&eacute;ssin sur une superficie de 5000 ha.&nbsp; Ceci constitue une grande opportunit&eacute; pour le d&eacute;veloppement des activit&eacute;s agro-sylvo-pastorales.<br><br>La formation v&eacute;g&eacute;tale est une savane herbeuse avec un tapis herbac&eacute; dense mais discontinue compte tenu des conditions climatiques difficiles (6 &agrave; 7 mois saison s&egrave;che et 3 mois de saison de pluie) et la pression humaine et animale sur les ressources naturelles.</p>\n<h2>Caract&eacute;ristique du milieu humain</h2>\n<p>La population est caract&eacute;ris&eacute;e par l&rsquo;importance num&eacute;rique des femmes et des jeunes. En effet, les femmes repr&eacute;sentent 55,59% de la population totale de la commune qui est estim&eacute;e de nos jours &agrave; 41&nbsp;417 d&rsquo;habitants.</p>\n<h2>Economie locale</h2>\n<p>L&rsquo;activit&eacute; principale constitue l&rsquo;agriculture qui occupe plus de 90% de la population ainsi que l&rsquo;&eacute;levage. Le barrage de To&eacute;ssin constitue une opportunit&eacute; et a permis le d&eacute;veloppement des cultures de saison s&egrave;ches ci-dessus cit&eacute;es. En effet, la production annuelle&nbsp; de tomate atteint 6&nbsp;000 &nbsp;tonnes et celle de l&rsquo;oignon 2 000 tonnes par an. Cette forte production connait souvent des m&eacute;ventes d&rsquo;o&ugrave; d&rsquo;&eacute;normes pertes pour les producteurs surtout pour la tomate &nbsp;et l&rsquo;oignon qui sont des produits p&eacute;rissables en absence de transformation.</p>\n<h2>Infrastructures sociaux</h2>\n<p>La commune dispose de 04 dispensaires pour une population de plus de 40&nbsp;000 personnes alors que les normes nationales pr&eacute;voient un dispensaire pour 5000 habitants.<br><br>Elle dispose de quatre (04) coll&egrave;ges d&rsquo;enseignement g&eacute;n&eacute;ral&nbsp; et d&rsquo;un lyc&eacute;e d&eacute;partemental.<br><br>Pour le cycle primaire, la commune dispose de 28 &eacute;coles avec 102 salles de classes. <br><br>Pour ce qui est du domaine de l&rsquo;eau et assainissement, on d&eacute;nombre 132 forages et 04 syst&egrave;mes d&rsquo;adduction d&rsquo;eau potable simplifi&eacute;. Le taux de couverture en eau potable en 2016 &eacute;tait de 76,8%.</p>",
+            "image": "http://www.rolandtest.com/media/posts/4/commune.PNG",
+            "author": {
+                "name": "Barry"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-24T23:45:35-04:00",
+            "date_modified": "2017-08-23T22:39:40-04:00"
+        },
+        {
+            "id": "http://www.rolandtest.com/organisation-administrative-de-la-commune.html",
+            "url": "http://www.rolandtest.com/organisation-administrative-de-la-commune.html",
+            "title": "Organisation administrative de la commune",
+            "content_html": "<p>La commune rel&egrave;ve de la province du Zondoma dans la r&eacute;gion du Nord au Burkina Faso. Elle compte vingt-trois (23) villages&nbsp; et est dirig&eacute;e par un conseil municipal de quarante-six (46) membres dont cinq (05) femmes. Le dernier conseil municipal a &eacute;t&eacute; mis en place suite aux &eacute;lections de mai 2016 suivi de la mise en place de l&rsquo;ex&eacute;cutif municipal en juin 2016. &nbsp;Les Conseils Villageois de D&eacute;veloppement avec chacun &agrave; sa t&ecirc;te un pr&eacute;sident existent dans chaque village et ont pour r&ocirc;le l&rsquo;organisation du d&eacute;veloppement dans le village.</p>\n<p>Depuis la communalisation int&eacute;grale du territoire amorc&eacute;e en 2007, la commune a connu trois (03) &eacute;quipes communales. La premi&egrave;re &eacute;quipe dirig&eacute;e par Feu Boureima ROUAMBA, Inspecteur de l&rsquo;Enseignement du Premier Degr&eacute; a &eacute;t&eacute; la pionni&egrave;re de 2007 &agrave; 2012 et a pos&eacute; les jalons pour la post&eacute;rit&eacute;. La seconde dirig&eacute;e par Souleymane OUEDRAOGO, Conseiller P&eacute;dagogique Itin&eacute;rant&nbsp; a conduit des destin&eacute;es de la commune de 2012 &agrave; 2014.</p>\n<p>L&rsquo;actuelle &eacute;quipe est compos&eacute;e de Relwend&eacute; Jean Noel BELEM, Inspecteur des Imp&ocirc;ts comme Maire avec pour premier Adjoint Daouda BELLEM et Boureima SAVADOGO comme deuxi&egrave;me Adjoint. La Commission Affaires G&eacute;n&eacute;rales, Sociales et Culturelles est dirig&eacute;e par monsieur Adama SOURGOU&nbsp;;la Commission Affaires Economiques et Financi&egrave;res est pr&eacute;sid&eacute;e par Irisso SAVADOGO&nbsp;; la Commission Environnement et D&eacute;veloppement Local quant &agrave; elle est pr&eacute;sid&eacute;e par Pawelgu&eacute; OUEDRAOGO et la Commission Am&eacute;nagement du Territoire et Gestion Fonci&egrave;re dirig&eacute;e par Omarou Pascal OUEDRAOGO.</p>\n<p><img src=\"http://www.rolandtest.com/media/posts/3/lemaire.PNG\" alt=\"Photo de la c&eacute;r&eacute;monie officielle d&rsquo;installation du conseil municipal le 31 juillet 2016. Au premier plan, le maire suivi des deux adjoints et au troisi&egrave;me plan les pr&eacute;sidents de commissions permanentes.\" width=\"779\" height=\"906\"></p>\n<p>L&rsquo;actuel Conseil poursuit et consolide les actions d&eacute;j&agrave; entreprises par les pr&eacute;c&eacute;dents conseil municipaux et les membres de la D&eacute;l&eacute;gation Sp&eacute;ciale &agrave; qui il rend un vibrant hommage pour les actions men&eacute;es. Durant la premi&egrave;re ann&eacute;e du mandat, le conseil a pu poursuivre la mise en &oelig;uvre du Plan Communal de D&eacute;veloppement couvrant la p&eacute;riode de 2013 &agrave; 2018. &nbsp;<br><br>La c&eacute;r&eacute;monie d&rsquo;investiture de l&rsquo;actuel conseil municipal s&rsquo;est d&eacute;roul&eacute;e le 31 juillet 2016 sous la pr&eacute;sidence de madame le Haut-Commissaire de la province du Zondoma en pr&eacute;sence de nombreux invit&eacute;s et de la population sortie massivement pour soutenir le nouveau conseil.</p>",
+            "author": {
+                "name": "Barry"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-24T23:45:35-04:00",
+            "date_modified": "2017-08-23T22:39:25-04:00"
+        },
+        {
+            "id": "http://www.rolandtest.com/situation-geographique.html",
+            "url": "http://www.rolandtest.com/situation-geographique.html",
+            "title": "Situation géographique",
+            "content_html": "<p>La commune de Tougo est situ&eacute;e dans la Province du Zondoma, R&eacute;gion Nord du Burkina Faso. Elle est &agrave; 30 KM de Gourcy, chef-lieu de la province et &agrave; 75KM de Ouahigouya, chef-lieu de la r&eacute;gion.</p>\n<p>La commune s&rsquo;&eacute;tend sur une superficie de 325 km2&nbsp; et ses limites g&eacute;ographiques sont les suivantes&nbsp;:<br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Au Nord par les communes de Bassi dans le Zondoma et S&eacute;gu&eacute;nega dans le Yatenga&nbsp;;<br><br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Au Sud par la commune de Gomponsom de la province du Passor&eacute;&nbsp;;<br><br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A l&rsquo;Est par la commune de Kalsaka de la commune du Yatenga&nbsp;;<br><br>-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; A l&rsquo;Ouest par la commune de Gourcy dans le Zondoma.</p>\n<p>Les communes de Kalsaka, Gomponssom et Tougo sont riveraines du barrage de To&eacute;ssin qui a une capacit&eacute; de stockage de &nbsp;100 millions de m&egrave;tre cube et disposent de ce fait d&rsquo;eau toute l&rsquo;ann&eacute;e&nbsp;; ce qui a permis un d&eacute;veloppement soutenu des productions agro-pastorales avec un accent particulier la pratique des cultures maraich&egrave;res. Cette production concerne essentiellement la tomate, l&rsquo;oignon et la culture fruiti&egrave;re (banane, papaye, mange orange).</p>",
+            "author": {
+                "name": "Barry"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-24T23:45:35-04:00",
+            "date_modified": "2017-08-23T22:51:07-04:00"
+        },
+        {
+            "id": "http://www.rolandtest.com/nous-contacter.html",
+            "url": "http://www.rolandtest.com/nous-contacter.html",
+            "title": "Nous contacter",
+            "content_html": "BELEM Jean No&euml;l Relwend&eacute;, Maire de la commune de Tougo;<br><br>Tel&nbsp;: (226) 70 24 43 99/ 00226 78 21 02 93<br><br>Email&nbsp;: jeanrelwende@yahoo.fr",
+            "image": "http://www.rolandtest.com/media/posts/1/contact.jpg",
+            "author": {
+                "name": "Barry"
+            },
+            "tags": [
+            ],
+            "date_published": "2017-08-24T23:45:35-04:00",
+            "date_modified": "2017-08-23T22:37:56-04:00"
+        }
+    ]
+}
